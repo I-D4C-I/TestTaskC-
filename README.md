@@ -30,10 +30,15 @@ parametric space to make a round, i.e. any point on helix satisfies the conditio
 
 # Example Work
 Vector of objects.
+
 ![image](https://github.com/I-D4C-I/TestTaskCplusplus/assets/98944264/59536608-7ec1-40e3-a935-b4a4e4308794)
+
 Second container that contain only circles from the first container.
+
 ![image](https://github.com/I-D4C-I/TestTaskCplusplus/assets/98944264/71320ac9-7400-4bf3-af05-0b20259d50fd)
+
 The total sum of radii of all curves in the second container.
+
 ![image](https://github.com/I-D4C-I/TestTaskCplusplus/assets/98944264/7abc66b9-b909-4063-8463-9b38f7c138f2)
 
 
